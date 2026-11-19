@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2FGrafitti-Media-Engine-OS)
+
 # Grafitti Media Engine OS
 
 A modular AI-powered media operating system designed by Major Dream Williams and Shaun Sanders.
